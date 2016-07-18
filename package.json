@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NoahYarian/walkabout/issues"
   },
-  "homepage": "https://github.com/NoahYarian/walkabout#readme"
+  "homepage": "https://github.com/NoahYarian/walkabout#readme",
+  "dependencies": {
+    "shelljs": "^0.7.0"
+  }
 }
